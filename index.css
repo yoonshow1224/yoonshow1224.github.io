@@ -1,0 +1,61 @@
+@font-face {
+    font-family: 'sb';
+    src: url("SB_W/SB\ 어그로\ M.ttf");
+}
+
+body {
+    background-color: #1B211A;
+}
+
+.texto {
+    margin-top: 300px;
+    text-align: center;
+    font-family: "sb";
+    font-size: 200px;
+    color: #ffffff;
+}
+.wrap {
+    margin-top: 300px;
+    text-align: center;
+}
+.menu {
+    border-radius: 10px;
+    color:#ecddc0;
+    font-size: 100px;
+    font-family: "sb";
+    margin-top: 30px;
+    width: 800px;
+    height: 500px;
+    background-image: url("images/lightgreen.png");
+
+}
+.menu:active{
+    opacity: 0.5;
+}
+
+.rank {
+    font-family: 'sb';
+    font-size: 100px;
+    color: #000000;
+    width: 800px;
+    height: 150px;
+    border: 2px solid black;
+    margin-top: 30px;
+    line-height: 170px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #ffffff;
+}
+
+.rank--1 {
+    background-color: #ffdc73;
+}
+
+.rank--2 {
+    background-color: #bbc6c9;
+}
+
+.rank--3 {
+    background-color: #bf8790;
+}
