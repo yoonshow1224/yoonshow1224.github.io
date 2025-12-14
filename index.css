@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'sb';
-    src: url(SB\ 어그로\ M.ttf");
+    src: url(SB어그로M.ttf");
 }
 
 body {
@@ -59,4 +59,5 @@ body {
 .rank--3 {
     background-color: #bf8790;
 }
+
 
